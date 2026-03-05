@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [https://tick-event.vercel.app](https://tick-event.vercel.app)
+🔗 [https://test-ticket-marketplace.vercel.app](https://test-ticket-marketplace.vercel.app)
 
 ---
 
@@ -37,8 +37,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/saidMounaim/tick-event.git
-cd tick-event
+git clone https://github.com/bartosz0718/test-ticket-marketplace.git
+cd test-ticket-marketplace
 ```
 
 ### 2. Install dependencies
@@ -56,7 +56,7 @@ Create a `.env` file in the root:
 DATABASE_URL="postgresql://..."
 
 # BetterAuth
-BETTER_AUTH_BASE_URL="https://tick-event.vercel.app"
+BETTER_AUTH_BASE_URL="https://test-ticket-marketplace.vercel.app"
 BETTER_AUTH_SECRET="your_betterauth_secret"
 
 # Stripe
